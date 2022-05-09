@@ -1,0 +1,2 @@
+# allati
+Static Website

@@ -1,2 +1,1 @@
-# allati
-Static Website
+My resume as a static website
